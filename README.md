@@ -58,14 +58,15 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 
-<img width="857" height="929" alt="image" src="https://github.com/user-attachments/assets/69c35215-9442-4600-8be1-6450cdfaec35" />
+<img width="710" height="923" alt="image" src="https://github.com/user-attachments/assets/a30c957c-f065-40ad-9505-d6207949e503" />
 
-<img width="458" height="935" alt="image" src="https://github.com/user-attachments/assets/32480ed0-01e2-45c1-8f89-1c1a204f1ab1" />
+<img width="710" height="923" alt="image" src="https://github.com/user-attachments/assets/a5ef364e-b35c-48e8-9521-4f0000aa4b9f" />
 
-<img width="595" height="961" alt="image" src="https://github.com/user-attachments/assets/4f145172-65ad-48de-8636-f9616b1992dd" />
+<img width="422" height="914" alt="image" src="https://github.com/user-attachments/assets/928cad37-965d-4b6f-b451-9eecaff2e855" />
 
-<img width="569" height="618" alt="image" src="https://github.com/user-attachments/assets/eb935ead-7b21-4438-9e68-05804f9d6cec" />
+<img width="592" height="917" alt="image" src="https://github.com/user-attachments/assets/005af7ff-77db-4a92-b30d-2eb66697beed" />
 
+<img width="497" height="642" alt="image" src="https://github.com/user-attachments/assets/3f70ce9d-d6be-4239-b866-dd549d2bcb01" />
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
